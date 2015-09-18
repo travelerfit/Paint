@@ -11,3 +11,5 @@ Features:
 - Edit a Picture (.JPG)
 - Resize workspace.
 - New workspace.
+
+![alt text](screenshots/1.png "Screenshot of Paint")
