@@ -1,7 +1,7 @@
 # Paint
 Paint 
 
-Basic drawing software developed in Processing.
+Basic drawing software.
 Features:
 - Color palette.
 - Eraser. 
